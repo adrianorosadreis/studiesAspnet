@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\ASP.NET\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|c:\\dev\\asp.net\\blog\\attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B41CE64-B0A8-4623-8DB8-94EDE8A7E439}|Blog.csproj|solutionrelative:attributes\\apikeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:56:05.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiKeyAttribute.cs",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\Attributes\\ApiKeyAttribute.cs",
+              "RelativeDocumentMoniker": "Attributes\\ApiKeyAttribute.cs",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\Attributes\\ApiKeyAttribute.cs",
+              "RelativeToolTip": "Attributes\\ApiKeyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:57:27.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T14:43:49.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:31:46.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:27:11.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:04:36.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T14:02:42.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\dev\\ASP.NET\\Blog\\Configuration.cs",
+              "RelativeDocumentMoniker": "Configuration.cs",
+              "ToolTip": "C:\\dev\\ASP.NET\\Blog\\Configuration.cs",
+              "RelativeToolTip": "Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T14:02:37.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

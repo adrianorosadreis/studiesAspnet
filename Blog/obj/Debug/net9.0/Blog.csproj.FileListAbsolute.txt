@@ -11,6 +11,7 @@ C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Azure.Identity.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\EntityFramework.SqlServer.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\EntityFramework.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Humanizer.dll
+C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Microsoft.Build.Locator.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
@@ -48,6 +49,7 @@ C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Microsoft.SqlServer.Types.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\dev\ASP.NET\Blog\bin\Debug\net9.0\SecureIdentity.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\System.ClientModel.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\System.CodeDom.dll
 C:\dev\ASP.NET\Blog\bin\Debug\net9.0\System.Composition.AttributedModel.dll
@@ -166,6 +168,7 @@ C:\dev\ASP.NET\Blog\obj\Debug\net9.0\Blog.AssemblyInfoInputs.cache
 C:\dev\ASP.NET\Blog\obj\Debug\net9.0\Blog.AssemblyInfo.cs
 C:\dev\ASP.NET\Blog\obj\Debug\net9.0\Blog.csproj.CoreCompileInputs.cache
 C:\dev\ASP.NET\Blog\obj\Debug\net9.0\Blog.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\ASP.NET\Blog\obj\Debug\net9.0\Blog.sourcelink.json
 C:\dev\ASP.NET\Blog\obj\Debug\net9.0\scopedcss\bundle\Blog.styles.css
 C:\dev\ASP.NET\Blog\obj\Debug\net9.0\staticwebassets.build.json
 C:\dev\ASP.NET\Blog\obj\Debug\net9.0\staticwebassets.development.json
